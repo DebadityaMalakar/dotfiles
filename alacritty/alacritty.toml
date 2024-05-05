@@ -1,0 +1,21 @@
+[colors.primary]
+background = "#eeeeee"
+foreground = "#ffffff"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "JetBrains Mono"
+style = "Medium"
+
+[shell]
+args = ["--login"]
+program = "/bin/zsh"
+
+[window]
+opacity = 0.1
+
+[window.padding]
+x = 20
+y = 20

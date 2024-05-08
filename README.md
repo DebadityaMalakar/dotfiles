@@ -3,6 +3,7 @@ Requirements
 - i3
 - i3lock
 - polybar
+- picom
 - rofi
 - alacritty
 - zsh(oh my zsh - recommended)
